@@ -91,7 +91,10 @@ Prior to removing 9th grade scores, the percentage of THS students passing math,
 4. The performance of THS relative to other schools greatly improved after removing 9th grade scores. For examples, THS improved their relative ranking in the percentage of students who passed math, reading, and both subjects. 
 
 Data Sources:
+
 [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
+
 [schools_complete](schools_complete.csv)
+
 [students_complete](students_complete.csv)
 
