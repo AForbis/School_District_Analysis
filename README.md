@@ -33,12 +33,12 @@ New...
   - Scores by school size: 
     - Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for charter schools. After removing 9th grade scores, THS rates aligned with the averages of other medium sized schools.
     
-    ![](SchoolSize_Summary.png)
+    ![](Screenshots\SchoolSize_Summary.png)
   
   - Scores by school type:
     - Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for medium sized schools. After removing 9th grade scores, THS rates aligned with the averages of charter schools.
     
-  ![](SchoolType.png)
+  ![](Screenshots\SchoolType.png)
 
 ## **Four changes in the updated school district analysis**
 1. The percentage of THS students who passed math increased approximately 26%.
