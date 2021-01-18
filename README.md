@@ -50,7 +50,7 @@ The school board reached out to say that the 9th grade math and reading scores f
     
     Math Scores by Grade
     
-    ![](screenshots/ByGrade_MAth.png)
+    ![](Screenshots/ByGrade_MAth.png)
     
     Reading Scores by Grade
     
@@ -62,7 +62,7 @@ The school board reached out to say that the 9th grade math and reading scores f
     
     Summary by Spending Range
     
-    ![](Screentshots/BySpending.png)
+    ![](Screenshots/BySpending.png)
     
     Spending Range (per student)
     
