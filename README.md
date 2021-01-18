@@ -38,11 +38,23 @@ The school board reached out to say that the 9th grade math and reading scores f
     - Old rank: Passing Math % = 9th; Passing Reading % = 15th; Passing Both = 8th
     - New Rank: Passing Math % = 7th; Passing Reading % = 3rd; Passing Both = 2nd
     
+    Top 5 Schools by Overall Passing %
+    
+    ![](Screenshots/Top5.png)
+    
 - **Replacing the ninth-grade scores also affects the following:**
 
   - Math and reading scores by grade: 
   
-    -
+    - ....
+    
+    Math Scores by Grade
+    
+    ![](screenshots/ByGrade_MAth.png)
+    
+    Reading Scores by Grade
+    
+    ![](Screenshots/ByGrade_Reading.png)
   
   - Scores by school spending: 
   
@@ -50,7 +62,7 @@ The school board reached out to say that the 9th grade math and reading scores f
     
     Summary by Spending Range
     
-    ![](BySpending.png)
+    ![](Screentshots/BySpending.png)
     
     Spending Range (per student)
     
