@@ -1,4 +1,4 @@
-# _School_District_Analysis_
+# **School District Analysis**
 
 ## **Overview of the school district analysis**
 
@@ -32,8 +32,8 @@ The school board reached out to say that the 9th grade math and reading scores f
   - Scores by school type: 
 
 
-## _Four changes in the updated school district analysis_ 
-1. 
-2. 
-3.
-4. d
+## **Four changes in the updated school district analysis**
+1. The percentage of THS students who passed math increased approximately 26%.
+2. The percentage of THS students who passed reading increased approximately 27%.
+3. The percentage of THS students who passed both math and reading increased approximately 25%.
+4. The performance of THS relative to other schools greatly improved after removing 9th grade scores. For examples, THS improved their relative ranking in the percentage of students who passed math, reading, and both subjects. 
