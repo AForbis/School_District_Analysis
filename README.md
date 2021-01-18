@@ -50,7 +50,7 @@ Changes to the data greatly increased the performance of THS relative to other s
 
 **4. Math and reading scores by grade:** 
   
-....
+Removing THS 9th grade math (83.6) and reading (83.7) scores had no change on the THS average math or reading scores. Additionally, removing THS math and reading scores only slightly reduced the district's 9th grade average math (80.4 to 80.1) and reading scores (82.5 to 82.4).
     
    Math Scores by Grade
     
