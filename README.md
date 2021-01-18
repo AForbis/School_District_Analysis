@@ -7,7 +7,8 @@ The school board reached out to say that the 9th grade math and reading scores f
 ## _Results_
 
 - District Summary Changes
-  - 
+  - Old - Passing Math % = 75.0; Passing Reading % = 85.8; Passing Both = 65.2%
+  - New - Passing Math % = 74.8; Passing Reading % = 85.7; Passing Both = 64.9%
   
 - School Summary Changes
   - 
