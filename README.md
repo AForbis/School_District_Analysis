@@ -1,15 +1,20 @@
 # _School_District_Analysis_
 
 ## Overview of the school district analysis
-The school board reached out to say that the 9th grade math and reading scores from Thomas High School appeared to have been altered in the file we used in the school district analysis. They then asked us to replace those scores with NaNs and then repeat the school district analysis. Finally, they wanted us to describe how these changes affected the overall analysis.
+
+The school board reached out to say that the 9th grade math and reading scores from Thomas High School (THS) appeared to have been altered in the file we used in the school district analysis. They then asked us to replace those scores with NaNs and then repeat the school district analysis. Finally, they wanted us to describe how these changes affected the overall analysis.
 
 ## _Results_
-- District Summary: asdfasdf
 
-- School Summary: asdfasdf
-
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+- District Summary Changes
+  - 
+  
+- School Summary Changes
+  - 
+  
+- Changes in THS performance relative to other schools
+  - 
+  
 - How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade: 
