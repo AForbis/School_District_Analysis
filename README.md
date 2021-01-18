@@ -11,13 +11,13 @@ Changes to the district summary were fairly insignificant because 9th graders at
     - Old: Passing Math % = 75.0%; Passing Reading % = 85.8%; Passing Both = 65.2%
     - New: Passing Math % = 74.8%; Passing Reading % = 85.7%; Passing Both = 64.9%
     
-    Old District Summary
+   Old District Summary
+   
+   ![](Screenshots/Challenge%234_oldDistrictSummary.png)
     
-    ![](Screenshots/Challenge%234_oldDistrictSummary.png)
+   New District Summary
     
-    New District Summary
-    
-    ![](Screenshots/Challenge%234_newDistrictSummary.png)
+   ![](Screenshots/Challenge%234_newDistrictSummary.png)
     
   
 **2. School Summary Changes**
@@ -25,59 +25,58 @@ Conversely, changes to the school summary were much more pronounced, as 9th grad
     - Old: Passing Math % = 66.9%; Passing Reading % = 69.7%; Passing Both = 65.1%
     - New: Passing Math % = 93.2%; Passing Reading % = 97.0%; Passing Both = 90.6%
     
-    Old School Summary
+   Old School Summary
     
-    ![](Screenshots/SchoolSummary_old.png)
+   ![](Screenshots/SchoolSummary_old.png)
     
-    New School Summary
+   New School Summary
     
-    ![](Screenshots/SchoolSummary_new.png)
+   ![](Screenshots/SchoolSummary_new.png)
     
 **3. Changes in THS performance relative to other schools**
 Changes to the data greatly increased the performance of THS relative to other schools. Specifically, the percentage of students who passed math, reading, and both subjects all improved the relative ranking of THS compared to the other 14 schools. 
     - Old rank: Passing Math % = 9th; Passing Reading % = 15th; Passing Both = 8th
     - New Rank: Passing Math % = 7th; Passing Reading % = 3rd; Passing Both = 2nd
     
-    Top 5 Schools by Overall Passing %
+   Top 5 Schools by Overall Passing %
     
-    ![](Screenshots/Top5.png)
-
+   ![](Screenshots/Top5.png)
 
 **4. Math and reading scores by grade:** 
   
 ....
     
-    Math Scores by Grade
+   Math Scores by Grade
     
-    ![](Screenshots/ByGrade_MAth.png)
+   ![](Screenshots/ByGrade_MAth.png)
     
-    Reading Scores by Grade
+   Reading Scores by Grade
     
-    ![](Screenshots/ByGrade_Reading.png)
+   ![](Screenshots/ByGrade_Reading.png)
   
 **5. Scores by school spending:**
   
 After removing 9th grade scores, THS' percentage of students passing math, reading, or both subject exceeded the average rates of other schools in the same spending     range per student ($630-644/student).
     
-    Summary by Spending Range
+   Summary by Spending Range
     
-    ![](Screenshots/BySpending.png)
+   ![](Screenshots/BySpending.png)
     
-    Spending Range (per student)
+   Spending Range (per student)
     
-    ![](Screenshots/SpendingRangePerStudent.png)
+   ![](Screenshots/SpendingRangePerStudent.png)
   
 **6. Scores by school size:**
 
 Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for charter schools. After removing 9th grade scores, THS rates aligned with the averages of other medium sized schools.
     
-    ![](Screenshots/SchoolSize_Summary.png)
+   ![](Screenshots/SchoolSize_Summary.png)
   
 **7. Scores by school type:**
 
 Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for medium sized schools. After removing 9th grade scores, THS rates aligned with the averages of charter schools.
     
-    ![](Screenshots/SchoolType.png)
+   ![](Screenshots/SchoolType.png)
 
 ## **Four changes in the updated school district analysis**
 1. The percentage of THS students who passed math increased approximately 26%.
