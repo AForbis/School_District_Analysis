@@ -31,7 +31,7 @@ The school board reached out to say that the 9th grade math and reading scores f
     
     New School Summary
     
-    [](Screenshots/SchoolSummary_new.png)
+    ![](Screenshots/SchoolSummary_new.png)
     
 - **Changes in THS performance relative to other schools**
   - Changes to the data greatly increased the performance of THS relative to other schools. Specifically, the percentage of students who passed math, reading, and both subjects all improved the relative ranking of THS compared to the other 14 schools. 
@@ -42,7 +42,19 @@ The school board reached out to say that the 9th grade math and reading scores f
 
   - Math and reading scores by grade: 
   
+    -
+  
   - Scores by school spending: 
+  
+    -  After removing 9th grade scores, THS' percentage of students passing math, reading, or both subject exceeded the average rates of other schools in the same spending range per student ($630-644/student).
+    
+    Summary by Spending Range
+    
+    ![](BySpending.png)
+    
+    Spending Range (per student)
+    
+    ![](Screenshots/SpendingRangePerStudent.png)
   
   - Scores by school size: 
     - Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for charter schools. After removing 9th grade scores, THS rates aligned with the averages of other medium sized schools.
