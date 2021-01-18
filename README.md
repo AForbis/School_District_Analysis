@@ -7,12 +7,15 @@ The school board reached out to say that the 9th grade math and reading scores f
 ## _Results_
 
 - District Summary Changes
-  - Old - Passing Math % = 75.0; Passing Reading % = 85.8; Passing Both = 65.2%
-  - New - Passing Math % = 74.8; Passing Reading % = 85.7; Passing Both = 64.9%
+  - Changes to the district summary were fairly insignificant because 9th graders at THS only represented 1.2% of the district (461 of 39,170). For example, the percentage of students who passed math, reading, and both subjects only changed between 0.1 to 0.3%.
+    - Old: Passing Math % = 75.0%; Passing Reading % = 85.8%; Passing Both = 65.2%
+    - New: Passing Math % = 74.8%; Passing Reading % = 85.7%; Passing Both = 64.9%
   
 - School Summary Changes
-  - 
-  
+  - Conversely, changes to the school summary were much more pronounced, as 9th graders at THS represented 28.2% of the school (461 of 1,635). For example, removing 9th graders scores at THS significantly improved the percentage of students who passed math, reading, and both subjects. 
+    - Old: Passing Math % = 66.9%; Passing Reading % = 69.7%; Passing Both = 65.1%
+    - New: Passing Math % = 93.2%; Passing Reading % = 97.0%; Passing Both = 90.6%
+    
 - Changes in THS performance relative to other schools
   - 
   
