@@ -6,6 +6,9 @@ The school board reached out to say that the 9th grade math and reading scores f
 
 ## **Results**
 
+Old...
+New...
+
 - **District Summary Changes**
   - Changes to the district summary were fairly insignificant because 9th graders at THS only represented 1.2% of the district (461 of 39,170). For example, the percentage of students who passed math, reading, and both subjects only changed between 0.1 to 0.3%.
     - Old: Passing Math % = 75.0%; Passing Reading % = 85.8%; Passing Both = 65.2%
@@ -28,12 +31,23 @@ The school board reached out to say that the 9th grade math and reading scores f
   - Scores by school spending: 
   
   - Scores by school size: 
+    - Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for charter schools. After removing 9th grade scores, THS rates aligned with the averages of other medium sized schools.
+    
+    ![](SchoolSize_Summary.png)
   
-  - Scores by school type: 
-
+  - Scores by school type:
+    - Prior to removing 9th grade scores, the percentage of THS students passing math, reading, or both subjects was significantly underperforming the average rates for medium sized schools. After removing 9th grade scores, THS rates aligned with the averages of charter schools.
+    
+  ![](SchoolType.png)
 
 ## **Four changes in the updated school district analysis**
 1. The percentage of THS students who passed math increased approximately 26%.
 2. The percentage of THS students who passed reading increased approximately 27%.
 3. The percentage of THS students who passed both math and reading increased approximately 25%.
 4. The performance of THS relative to other schools greatly improved after removing 9th grade scores. For examples, THS improved their relative ranking in the percentage of students who passed math, reading, and both subjects. 
+
+Data Sources:
+[PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
+[schools_complete](schools_complete.csv)
+[students_complete](students_complete.csv)
+
