@@ -17,7 +17,7 @@ The school board reached out to say that the 9th grade math and reading scores f
     
     New District Summary
     
-    ![](Screenshots/Challenge#4_newDistrictSummary.png)
+    ![](Screenshots/Challenge%234_newDistrictSummary.png)
     
   
 - **School Summary Changes**
